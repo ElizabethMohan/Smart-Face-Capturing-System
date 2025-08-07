@@ -23,5 +23,3 @@ A computer vision-based real-time face capturing system using **OpenCV** and **M
 - MediaPipe
 - NumPy
 
-## 📁 Folder Structure
-
